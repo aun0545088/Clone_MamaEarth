@@ -1,6 +1,6 @@
 
 ## Clone of Mamaearth.com
- This was our Third construct week project at Masai School, We have cloned Asia’s first MadeSafe certified brand Mamaearth.
+ This was our fourth construct week project at Masai School, We have cloned Asia’s first MadeSafe certified brand Mamaearth.
  Our main objective was to complete all main functionality of the website, such as Signing Up for the buying of a product.
  We have completed this project in 5 days. 
  
